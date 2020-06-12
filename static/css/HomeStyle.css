@@ -5,7 +5,7 @@ body{
     background-color:lightgray
 }
 .navbar{
-    background:linear-gradient lightcyan
+    background:linear-gradient lightcyan;
 }
  .navbar .navbar-nav .nav-item .nav-link{
     color:black;
@@ -69,3 +69,4 @@ section{
 .video_thumbnail .sm-video .video-detail{
     color:white;
 }
+
